@@ -1,6 +1,20 @@
-# WCE Injector
+# WCE Injector — 我带过的最差一届（Worst Class Ever）核心注入器
 
-一个自包含的游戏核心注入器。补丁 DLL 已内嵌在 exe 中，解压即用。
+> 本项目是游戏《我带过的最差一届》（英文名 **Worst Class Ever**，简称 **WCE**）的自包含核心注入器。
+> 补丁 DLL 已内嵌在 exe 中，解压即用。
+
+<!--
+SEO 关键词（便于被搜索到）：
+我带过的最差一届、最差一届、最差的一届、我带过最差的一届、Worst Class Ever、WCE、
+WCEcheat、WCE crack、WCE 注入器、WCE 核心、游戏核心注入、DLL 注入、卡密绕过、
+Steam 登录修复、作弊菜单、内挂、开箱即用、最差一届辅助、worst class ever cheat
+-->
+
+## 关于
+
+《我带过的最差一届》（Worst Class Ever，WCE）是一款热门联机游戏。本仓库提供该游戏的核心加载器，
+解决卡密验证与 Steam 登录状态问题，并对菜单做了个性化处理。如果你在找
+"我带过的最差一届" 的辅助、WCE 核心、Worst Class Ever cheat 或 WCE crack，来这里就对了。
 
 ## 功能
 
@@ -11,7 +25,7 @@
 
 ## 使用方法
 
-1. 先启动游戏 **Worst Class Ever**，进入主菜单
+1. 先启动游戏《我带过的最差一届》（Worst Class Ever），进入主菜单
 2. 双击运行 `WCE_Injector.exe`
 3. 出现 `核心已加载并接受初始化` 即注入成功
 4. 回到游戏，按 **F2**（或 **Insert**）打开菜单
@@ -34,3 +48,8 @@
 
 - `WCE_Injector.exe` — 主程序，补丁已内嵌，双击即用
 - `DLL/WorstClassEver.dll` — 备用核心 DLL
+
+## 关键词 / Tags
+
+我带过的最差一届 · 最差一届 · Worst Class Ever · WCE · WCEcheat · WCE crack ·
+游戏辅助 · 核心注入 · DLL injection · cheat menu
