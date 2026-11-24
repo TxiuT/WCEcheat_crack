@@ -10,6 +10,21 @@ WCEcheat、WCE crack、WCE 注入器、WCE 核心、游戏核心注入、DLL 注
 Steam 登录修复、作弊菜单、内挂、开箱即用、最差一届辅助、worst class ever cheat
 -->
 
+
+---
+
+## 🆕 v2.0 — HYDRA 图形化一键注入器（最新版）
+
+新版把注入器做成了 HYDRA 风格的图形菜单，开箱即用：
+
+- **单文件 exe**：`WCE_Loader_release.zip` 内只有一个 `WCE_Loader.exe`，补丁 DLL 已内嵌，无第三方 DLL 依赖。
+- **游戏卡片**：菜单里只保留《我带过的最差一届》(Worst Class Ever) 一个游戏，配官方中文介绍与图片。
+- **一键注入**：点选卡片 → 点 Load → 自动完成远程注入，弹出「核心已加载并接受初始化」提示。
+
+使用：Steam 启动游戏进主菜单 → 管理员运行 `WCE_Loader.exe` → 点选 `Worst Class Ever` 卡片 → 点 `Load` → 回游戏按 **F2 / Insert** 打开菜单。
+
+> 旧版 `WCE_Injector.exe`（命令行版）仍在 v1.0 Release 中，可按需下载。
+
 ## 关于
 
 《我带过的最差一届》（Worst Class Ever，WCE）是一款热门联机游戏。本仓库提供该游戏的核心加载器，
